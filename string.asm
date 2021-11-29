@@ -1,3 +1,9 @@
+; this is collabration with dhanush kumar who is my 
+; friend, 
+; so the most of credits goes the dhanush kumar 
+; and that code is modified  , this is the modified version 
+
+
 assume ds:data , cs:code , es:data
 
 data segment 
